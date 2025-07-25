@@ -1,11 +1,8 @@
 # Teacher Retention Analysis
-
-what we're analyzing, what data is and where we found it
+We are investigating which factors have the greatest impact on teacher retention rates in public schools across Massachusetts by testing teacher salaries, class sizes, and per student expenditures. Our data was found from the Massachusetts Department of Elementary and Secondary Education database.
 
 ## Installation
-is this j cloning repo?
 git clone [https://github.com/your-username/teacher-retention-analysis.git](https://github.com/wolf9999/RISE-Retention-Research.git)
-cd teacher-retention-analysis
 pip install -r requirements.txt
 
 ## Usage
@@ -16,7 +13,7 @@ Project/
 |-- The_Report       # poster or paper
 |-- Data/
 |   |-- InputData/          # raw data
-|   |   |-- Input_Data_Files         # do we need these?
+|   |   |-- Input_Data_Files
 |   |   |__ Metadata/
 |   |       |__ Data_Sources_Guide
 |   |       |__ Codebooks
