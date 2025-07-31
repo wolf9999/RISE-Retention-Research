@@ -9,25 +9,45 @@ pip install -r requirements.txt
 
 ## How to Nagivate this Repo (TIER 4.0)
 Project/
+
 |-- The_Read_Me_File
+
 |-- The_Report       # poster or paper
+
 |-- Data/
+
 |   |-- InputData/          # raw data
+
 |   |   |-- Input_Data_Files
+
 |   |   |__ Metadata/
+
 |   |       |__ Data_Sources_Guide
+
 |   |       |__ Codebooks
+
 |   |-- AnalysisData/           # fully cleaned
+
 |   |   |-- Analysis_Data_Files
+
 |   |   |__ The_Data_Appendix
+
 |   |__ IntermediateData/          # intermediate files
+
 |-- Scripts/
+
 |   |-- ProcessingScripts/
+
 |   |-- DataAppendixScripts/
+
 |   |-- AnalysisScripts/
+
 |   |__ The_Master_Script
+
 |__ Output/
+
 |   |-- DataAppendixOutput/
+
 |   |__ Results/
 
 
