@@ -2,12 +2,12 @@
 We are investigating which factors have the greatest impact on teacher retention rates in public schools across Massachusetts by testing teacher salaries, class sizes, and per student expenditures. Our data was found from the Massachusetts Department of Elementary and Secondary Education database.
 
 ## Installation
-git clone [https://github.com/your-username/teacher-retention-analysis.git](https://github.com/wolf9999/RISE-Retention-Research.git)
+git clone [https://github.com/Wolf9999/RISE-Retention-Research.git](https://github.com/wolf9999/RISE-Retention-Research.git)
 pip install -r requirements.txt
 
 ## Usage
 
-## How to Nagivate this Repo (TIER 4.0)
+## How to Navigate this Repo (TIER 4.0)
 Project/
 
 |-- The_Read_Me_File
